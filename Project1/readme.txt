@@ -1,0 +1,1 @@
+1) Initialization of a project file for GIT repository.

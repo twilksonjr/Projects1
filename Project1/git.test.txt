@@ -1,0 +1,10 @@
+
+
+ Steps for creating project test files push to origin.
+
+
+ 1) created Project - mkdir Project
+
+ 2) git remote add origin
+
+ 3) git push origin master
